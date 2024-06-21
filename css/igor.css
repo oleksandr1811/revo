@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding:0;
+    .montserrat-<uniquifier> {
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+      }
+}
+.your, .cof{
+width: 470px;
+font-family: Montserrat;
+font-size: 54px;
+font-weight: 900;
+line-height: 70px;
+text-align: left;
+}
+.perso{
+width: 470px;
+font-family: Montserrat;
+font-size: 54px;
+font-weight: 900;
+line-height: 70px;
+text-align: left;
+background: #C7A17A;
+
+
+}
+.coffe{
+   margin-top: 404px;
+   margin-left: 147.4px;
+}
+.images{
+ width: 900.52px;
+height: 947px;
+
+}
+.header{
+    background-image: url(../img/Header.png);
+    width:1280px;
+    height: 768px;  
+    margin: 0 auto; 
+}
+.rev{
+    margin-top: 72px;
+    margin-left:130px;
+}

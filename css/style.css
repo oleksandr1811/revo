@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.section{
+	width: 1280px;
+	height: 906px;
+}
+.h2{
+	font-family: Nunito;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+
+}
+.h1{
+	font-family: Montserrat;
+font-size: 30px;
+font-weight: 900;
+line-height: 34px;
+text-align: center;
+
+}
+.on{
+	width: 360px;
+height: 562px;
+gap: 0px;
+opacity: 0px;
+
+}
+.sina{
+	font-family: Nunito;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+color: #C7A17A;
+
+
+}
+.si{
+	display: flex;
+	width: 150px;
+	height: 30px;
+}
+.h{
+	font-family: Nunito;
+font-size: 24px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+
+}
+.p{
+	font-family: Nunito;
+font-size: 16px;
+font-weight: 300;
+line-height: 21.82px;
+text-align: left;
+color: #151D28;
+
+}
+.baton{
+	width: 134px;
+	height: 32px;
+	background: #C7A17A;
+	border-radius: 7px;
+	border: 0;
+	margin-top: 10px;
+
+}
+.h3{
+	font-family: Nunito;
+font-size: 16px;
+font-weight: 700;
+line-height: 21.82px;
+text-align: left;
+color: #415167;
+margin-left: 60px;
+
+}
+.hek{
+	display: flex;
+}
+.container{
+	display: grid;
+		grid-template-columns: repeat(3, 370px);
+	grid-template-rows: repeat(1, 150px);
+	width: 1000px;
+	height: 560px;
+	grid-gap: 40px;
+}
+.sinap{
+  color: #415167;
+  font-family: Nunito;
+font-size: 14px;
+line-height: 16.41px;
+text-align: left;
+margin-left: 15px;
+
+
+}
+.item1{
+	width: 360px;
+	height: 340px;
+}
+.on{
+	width: 360px;
+	height: 562px;
+}
+.tw{
+	grid-column: 2/2;
+}
